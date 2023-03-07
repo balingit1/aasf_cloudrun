@@ -1,3 +1,7 @@
 project = "dev-aasf-project-0c3r"
 repo_id = "aasmartfuel-co-nz-website"
 repo_desc = "UAT repo for docker"
+cloudrun_service = "aasmartfuel-co-nz-website"
+docker_source = "https://github.com/tm-face/aasmartfuel.co.nz"
+docker_image = "aasmartfuel.co.nz"
+tag1 = "1.0"
